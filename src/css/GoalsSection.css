@@ -1,0 +1,16 @@
+.goals-section {
+  padding: 2rem;
+  background-color: #e2b497;
+  text-align: center;
+}
+
+.goals-title {
+  font-size: 2rem;
+}
+
+.goals-text {
+  font-size: 1rem;
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+}
